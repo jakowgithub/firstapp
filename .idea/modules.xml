@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webhelloproject.iml" filepath="$PROJECT_DIR$/.idea/modules/webhelloproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webhelloproject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/webhelloproject_main.iml" group="webhelloproject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webhelloproject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/webhelloproject_test.iml" group="webhelloproject" />
+    </modules>
+  </component>
+</project>
